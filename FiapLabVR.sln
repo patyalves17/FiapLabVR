@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapLabVR", "Assembly-CSharp.csproj", "{51301831-F560-B97A-7D0E-B556AE718CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiapLabVR", "Assembly-CSharp-Editor.csproj", "{F5E9202A-4651-EE7A-ECF8-673D4E637F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51301831-F560-B97A-7D0E-B556AE718CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51301831-F560-B97A-7D0E-B556AE718CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51301831-F560-B97A-7D0E-B556AE718CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51301831-F560-B97A-7D0E-B556AE718CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E9202A-4651-EE7A-ECF8-673D4E637F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E9202A-4651-EE7A-ECF8-673D4E637F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E9202A-4651-EE7A-ECF8-673D4E637F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E9202A-4651-EE7A-ECF8-673D4E637F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
